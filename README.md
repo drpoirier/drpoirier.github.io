@@ -1,4 +1,4 @@
-## Welcome to My GitPage
+## Welcome to Denis' GitHub Page
 
 You can use the [editor on GitHub](https://github.com/drpoirier/drpoirier.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
